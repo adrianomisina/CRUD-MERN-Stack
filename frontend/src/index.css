@@ -1,0 +1,17 @@
+/* Adicione as classes do Tailwind CSS */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Reset de margin, padding e box-sizing */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Defina o background color para toda a aplicação */
+html {
+  background-color: #242D40;
+}
+
